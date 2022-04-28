@@ -2,7 +2,7 @@
 
 - 🔭 I am Tahir Naveed.
 - 🌱 I work at Microsoft. 
-- 👯 I write at following places:
+- 👯 Here are my writings on technology:
   -  https://devblogs.microsoft.com/premier-developer/tag/tahir-naveed/
   -  http://mysplist.blogspot.com
   -  https://www.amazon.com/Tahir-Naveed/e/B005WKZ2V0%3F
